@@ -12,18 +12,28 @@ Backend : Node.js (javascript)
 Frontend : React, Tailwind css.
 
 # run locally 
+
 1. Clone repository
+
 `` git clone https://github.com/ramraj1096/todo-application ``
 
 2. install all dependencies and run
+
 ` cd backend `
+
 `` npm install``
+
 `` npm run dev ``
 
+
 `cd .. `
+
 `cd frontend `
+
 ``npm install ``
+
 ``npm run dev``
+
 
 
 
